@@ -1,4 +1,4 @@
-import styled from "styled-components"
+
 
 const ContactList = ({ items, deleteContact }) => {
     const elements = items.map(({ id, name, number }) =>
