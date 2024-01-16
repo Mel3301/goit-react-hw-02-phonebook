@@ -103,7 +103,7 @@ const ContactListWrapper = styled.div`
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 300px;
+    min-width: 300px;
     gap: 20px;
     padding: 20px 0;
     margin: 40px auto;
